@@ -24,3 +24,10 @@ https://github.com/EbookFoundation/free-programming-books/blob/main/courses/free
 https://www.theodinproject.com/
   
 https://roadmap.sh/
+
+Extenssões que vão te deixar mais produtivo nos estudos (chrome):
+  
+Extenssões que vão te ajudar muito quando você estiver codando (VS code):
+  
+Download ferramentas:
+  
