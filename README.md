@@ -7,7 +7,7 @@ Eu tenho vários conhecidos e amigos meus que dizem que desejam arrumar emprego 
 
 
 
-<h1>Ainda irei organizar<h1>
+<h1>Ainda irei organizar por enquanto vou deixar esse rascunho aqui mesmo<h1>
 
 - Trabalha o portfólio fazendo mini projetos
 - Vai em eventos de tecnologia e empreendedorismo fazer networking (e quem sabe  sai de lá com uma ideia de negócios para montar uma emrpesa)
@@ -24,6 +24,8 @@ https://github.com/EbookFoundation/free-programming-books/blob/main/courses/free
 https://www.theodinproject.com/
   
 https://roadmap.sh/
+  
+https://github.com/MohammedHamzaMalik/100-Days-of-JavaScript-Code
 
 Extenssões que vão te deixar mais produtivo nos estudos (chrome):
   
