@@ -15,12 +15,16 @@ Eu tenho vários conhecidos e amigos meus que dizem que desejam arrumar emprego 
 - Estudar um framework que mais aparece nas vagas do linkedin (recomendo procurar por ângular e springboot)
 - Participar dos bootcamps da DIO
 - Fazer exercicios das maratonas de programação (e quem sabe participar de uma)
+  
+ 
 
 https://www.youtube.com/playlist?list=PLMdYygf53DP5SVQQrkKCVWDS0TwYLVitL
   
 https://www.youtube.com/playlist?list=PLdsnXVqbHDUcAWAN3cXHWnM9JEw2gjIN9
 
 https://100dayscss.com/days/1/
+
+codegym.cc
 
 https://github.com/EbookFoundation/free-programming-books/blob/main/courses/free-courses-pt_BR.md
 
