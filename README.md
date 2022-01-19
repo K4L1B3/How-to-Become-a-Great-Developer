@@ -73,7 +73,7 @@ Why should I join a community?
 
 The only active community that helps to solve programming problems I've encountered so far is the <a href="https://rocketseat.com.br/">rocket seat group<a/>
  
- <a href="">CLICK HERE TO JOIN<a/>
+ <a href="https://discord.gg/B8pZd7ZXTg">CLICK HERE TO JOIN<a/>
  
 * ### Step 4: how to get a job???
  
