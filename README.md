@@ -1,5 +1,8 @@
 # How-to-Become-a-Great-Developer
-Eu tenho vários conhecidos e amigos meus que dizem que desejam arrumar emprego na área de programação, mas não sabem muito bem por onde começar ou nem sabe onde procurar criei esse repositório para server como um guia/arcevo de conhecimento dando dicas de estudo, emprego e etc... E espero futuramente torna-lo algo colaborativo e digo que todas as sugestões de conteúdos adicionais são bem vindas!!!
+
+##About this project
+> I have several acquaintances and friends of mine who say they want to get a job in the programming field, but don't really know where to start or where to look and etc... my goal with this project here is to create a guide for both myself and those other people who want to become great programmers
+
 
 
 
