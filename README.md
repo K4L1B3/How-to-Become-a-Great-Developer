@@ -17,7 +17,7 @@ Eu tenho vários conhecidos e amigos meus que dizem que desejam arrumar emprego 
 - Fazer exercicios das maratonas de programação (e quem sabe participar de uma)
 
 
-https://www.youtube.com/watch?v=O76ZfAIEukE&list=PLdsnXVqbHDUc7htGFobbZoNen3r_wm3ki  
+https://www.youtube.com/playlist?list=PLdsnXVqbHDUcAWAN3cXHWnM9JEw2gjIN9
 
 https://100dayscss.com/days/1/
 
