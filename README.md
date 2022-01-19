@@ -131,7 +131,7 @@ The only active community that helps to solve programming problems I've encounte
  
  
 
- ## - <a href="https://github.com/EbookFoundation/free-programming-books/blob/main/courses/free-courses-pt_BR.md"> Here is a reference collection that will guide you in other languages<a/>
+ ## - <a href="https://github.com/EbookFoundation/free-programming-books/blob/main/courses/free-courses-pt_BR.md"> Here is a reference collection that will guide you in other programming languages<a/>
  
 
   # Autor
