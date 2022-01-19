@@ -8,8 +8,9 @@ Okay, now let's start the trail so you know where to start. It is very important
 
  * Research first which area you want to follow, if you prefer something more logical as a back-end then I recommend you start with Java or if you prefer something more visual as a front-end my recommendation is Javascript, in the end this is just the order of learning, because in the job market you will need to know a little about each thing so you will end up learning both the back-end and front-end areas
  * Study about programming logic
+ * Before starting programming I recommend watching <a href="https://www.youtube.com/playlist?list=PLdsnXVqbHDUc7htGFobbZoNen3r_wm3ki">this playlist<a/> by Fabio Akita
 
-This site can help you choose and understand what you will need to learn when studying this language: https://roadmap.sh/ 
+***This site can help you choose and understand what you will need to learn when studying this language: https://roadmap.sh/ 
 
 * ### Step 1.2: Learn English
 You have to know english and this is not negotiable if you want to have a place in the job market or earn a good salary
@@ -32,61 +33,123 @@ You will have to be self-taught and look for yourself the best way to learn a pr
 
 But to say that I'm not here just stating the obvious I'm going to give you a study routine that you can follow in addition to sites to practice solving problems daily
 
-  1. Pomodoro session 1: study 90 min/rest 20 min 
- - Solve 2 exercise with the main language (in my case it's Java)
- - Practicing 1 programming marathon exercise per day (This helps a lot to have good programming logic.)
-  <br/>
-  2. Pomodoro session 2: study 90 min/rest 20 min
- - Work on small projects with languages you haven't fully mastered yet (in my case it's Javascript and ReactJS)
-  <br/>
-  3. Pomodoro session 3: study 90 min/rest 20 min
- - Watch class of bootcamps every day (Here you learn new things for free and even add it to your curriculum)
+#### Pomodoro session 1: study 90 min/rest 20 min 
+  * Solve 2 exercise with the main language (in my case it's Java)
+  * Practicing 1 programming marathon exercise per day (This helps a lot to have good programming logic.)
+
+#### Pomodoro session 2: study 90 min/rest 20 min
+  - Work on small projects with languages you haven't fully mastered yet (in my case it's Javascript and ReactJS)
+
+#### Pomodoro session 3: study 90 min/rest 20 min
+  - Watch class of bootcamps every day (Here you learn new things for free and even add it to your curriculum)
 
 
+#### Useful links:
 
+ To study:
+- <a href="https://docs.oracle.com/en/java/">Documentation: Java<a/>
+- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> Documentation: JavaScript<a/>
+- <a href="https://docs.python.org/3/">Documentation: Python<a/>
+- <a href="https://dart.dev/guides">Documentation: Dart<a/>
+- <a href="http://maratona.sbc.org.br/antigas21.html">Programming marathon exercises wiki<a/>
+- <a href="codegym.cc"> You can find here exercises to do from java<a/>
+- <a href="https://www.theodinproject.com/">Javascript course<a/>
+- <a href="https://www.w3schools.com/html/default.asp"> Learn HTML, CSS, SQL and MORE<a/>
 
+To make Projects:
+- <a href="https://github.com/MohammedHamzaMalik/100-Days-of-JavaScript-Code">100 days JavaScript challeger<a/>
+- <a href="https://github.com/AswinBarath/100-days-of-code-challenge"> This github page teaches you software development through the 100 days of code challenge<a/>
+- <a href="https://100dayscss.com/days/1/"> improve your css with the css challenge in 100 days<a/>
+- <a href="https://web.dio.me/labs">Digital Innovation One: LABS<a/>
+ 
+ 
+* ### Step 3: how to get a job???
+ 
+ Well, from everything I've tested, I believe that the best way to get a job whether you have college or not is to work on the following points:
+ * Work on the portfolio by doing small projects
+ * Go to technology, hackathons and entrepreneurship events and make network with professionals in the area (and who knows, leave with a business idea to start a company heheh)
+ * Study a <a href="https://en.wikipedia.org/wiki/Software_framework">framework<a/> that appears most in linkedin vacancies, in the market today we have: 
+      
+      * <a href="https://angular.io/docs">Ângular<a/>
+      * <a href="https://reactjs.org/docs/getting-started.html">ReactJS<a/>
+      * <a href="https://docs.flutter.dev/">Flutter<a/>
+      * <a href="https://vuejs.org/v2/guide/">VueJS<a/>
+      * <a href="https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#legal">Springboot<a/>
+      * <a href="https://kotlinlang.org/docs/home.html">Kotlin<a/>
+      * <a href="https://reactnative.dev/docs/getting-started">React-Native<a/>
+* Participate in DIO bootcamps (<a href="https://web.dio.me/">Digital Innovation One<a/>)
+* Participate in <a href="http://maratona.sbc.org.br/">programming marathons<a/>
+ 
+#### Additional:
+ - <a href="https://www.youtube.com/playlist?list=PLMdYygf53DP5SVQQrkKCVWDS0TwYLVitL"> This playlist will help you better understand programming concepts<a/>
+ - <a href="https://www.youtube.com/playlist?list=PLdsnXVqbHDUcAWAN3cXHWnM9JEw2gjIN9"> understand the programming market once and for all <a/>
 
+ 
+### Extensions that will make you more productive in your studies (chrome):
+ 
+ * Adblock Plus
+ * Dark Reader
+ * Global Speed
+ * Google Translate
+ * Picture-in-Picture Extension (by Google)
+ * The Marvellous Suspender
+ 
+### Extensions that will help you a lot when you are coding (VS code):
+ 
+ * Auto Close Tag
+ * Bracket Pair Colorizer
+ * Live Server
+ * Auto Rename Tag
+ * GitLens
+ * Live Share
 
-
-
-
-
-
-
-
-
-
-
-<h1>Ainda irei organizar por enquanto vou deixar esse rascunho aqui mesmo<h1>
-
-- Trabalha o portfólio fazendo mini projetos
-- Vai em eventos de tecnologia e empreendedorismo fazer networking (e quem sabe  sai de lá com uma ideia de negócios para montar uma emrpesa)
-- Escolher uma área de programação para começar e se espacializar nele, depois estudar um pouco de cada coisa você pode acessar o site roadmap.sh que vai te dar um direcionamento melhor sobre oque estudar em cada área
-- Estudar um framework que mais aparece nas vagas do linkedin (recomendo procurar por ângular e springboot)
-- Participar dos bootcamps da DIO
-- Fazer exercicios das maratonas de programação (e quem sabe participar de uma)
-  
+Download productivity and study tools:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
 
-https://www.youtube.com/playlist?list=PLMdYygf53DP5SVQQrkKCVWDS0TwYLVitL
-  
-https://www.youtube.com/playlist?list=PLdsnXVqbHDUcAWAN3cXHWnM9JEw2gjIN9
-  
-https://github.com/AswinBarath/100-days-of-code-challenge
+ ## - <a href="https://github.com/EbookFoundation/free-programming-books/blob/main/courses/free-courses-pt_BR.md"> Here is a reference collection that will guide you in other languages<a/>
+ 
 
-https://100dayscss.com/days/1/
+  # Autor
 
-codegym.cc
+<img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/45051690?s=400&u=14f759fe2e853f462a6a59a8feabf334dec81aee&v=4" width="100px" alt=""/>
 
-https://github.com/EbookFoundation/free-programming-books/blob/main/courses/free-courses-pt_BR.md
+**Nome:** Luiz Henrique
 
-https://www.theodinproject.com/
+
+**Contato:**
+
+[Instagram](https://www.instagram.com/k4l1b3/)
+
+[Linkeidn](https://www.linkedin.com/in/luiz-henrique-3903a618a/)
+
+Gmail: luizhlimagomes28@gmail.com
+
+
   
 
   
-https://github.com/MohammedHamzaMalik/100-Days-of-JavaScript-Code
+
+
+
+
+
+
+
+
+
   
-http://maratona.sbc.org.br/antigas21.html
+
+  
+
+  
+
 
 Extenssões que vão te deixar mais produtivo nos estudos (chrome):
   
