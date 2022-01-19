@@ -3,14 +3,14 @@
 ## About this project
 > I have several acquaintances and friends of mine who say they want to get a job in the programming field, but don't really know where to start or where to look and etc... my goal with this project here is to create a guide for both myself and those other people who want to become great programmers
 
-* ### The first step
+* ### The F I R S T step
 Okay, now let's start the trail so you know where to start. It is very important that you choose a single programming language first and only after you master it and know a framework do we start to venture into other programming languages.
 
  * Research first which area you want to follow, if you prefer something more logical as a back-end then I recommend you start with Java or if you prefer something more visual as a front-end my recommendation is Javascript, in the end this is just the order of learning, because in the job market you will need to know a little about each thing so you will end up learning both the back-end and front-end areas
  * Study about programming logic
  * Before starting programming I recommend watching <a href="https://www.youtube.com/playlist?list=PLdsnXVqbHDUc7htGFobbZoNen3r_wm3ki">this playlist<a/> by Fabio Akita
 
-***This site can help you choose and understand what you will need to learn when studying this language: https://roadmap.sh/ 
+***This site can help you choose and understand what you will need to learn when studying this language:*** https://roadmap.sh/
 
 * ### Step 1.2: Learn English
 You have to know english and this is not negotiable if you want to have a place in the job market or earn a good salary
@@ -64,9 +64,18 @@ To make Projects:
 - <a href="https://github.com/AswinBarath/100-days-of-code-challenge"> This github page teaches you software development through the 100 days of code challenge<a/>
 - <a href="https://100dayscss.com/days/1/"> improve your css with the css challenge in 100 days<a/>
 - <a href="https://web.dio.me/labs">Digital Innovation One: LABS<a/>
+
+### Step 4: Join communities
+Why should I join a community?
+- There you can meet people
+- Clear your programming doubts
+- Learning by helping others
+
+The only active community that helps to solve programming problems I've encountered so far is the <a href="https://rocketseat.com.br/">rocket seat group<a/>
  
+ <a href="">CLICK HERE TO JOIN<a/>
  
-* ### Step 3: how to get a job???
+* ### Step 4: how to get a job???
  
  Well, from everything I've tested, I believe that the best way to get a job whether you have college or not is to work on the following points:
  * Work on the portfolio by doing small projects
