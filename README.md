@@ -16,7 +16,8 @@ Eu tenho vários conhecidos e amigos meus que dizem que desejam arrumar emprego 
 - Participar dos bootcamps da DIO
 - Fazer exercicios das maratonas de programação (e quem sabe participar de uma)
 
-
+https://www.youtube.com/playlist?list=PLMdYygf53DP5SVQQrkKCVWDS0TwYLVitL
+  
 https://www.youtube.com/playlist?list=PLdsnXVqbHDUcAWAN3cXHWnM9JEw2gjIN9
 
 https://100dayscss.com/days/1/
