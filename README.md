@@ -4,7 +4,32 @@
 > I have several acquaintances and friends of mine who say they want to get a job in the programming field, but don't really know where to start or where to look and etc... my goal with this project here is to create a guide for both myself and those other people who want to become great programmers
 
 Ok, now let's start the trail so you know where to start. It is very important that you choose an area of frameworks to be followed in programming
-* The first step: Learn English
+* The first step
+Okay, now let's start the trail so you know where to start. It is very important that you choose a single programming language first and only after you master it and know a framework do we start to venture into other programming languages.
+
+* Step 1.2: Learn English
+You have to know english and this is not negotiable if you want to have a place in the job market or earn a good salary
+
+
+* Steo 2: how to learn programming?
+You will have to be self-taught and look for yourself the best way to learn a programming language is based on 4 simple steps, and they are:
+
+- Read language documentation
+- Practice a lot every day
+- Gain experience in the errors of your code
+- Keep consistency
+
+But to say that I'm not here just stating the obvious I'm going to give you a study routine that you can follow in addition to sites to practice solving problems daily
+
+
+
+
+
+
+
+
+
+
 
 
 
