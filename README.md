@@ -1,7 +1,7 @@
 # How-to-Become-a-Great-Developer
 
 ## About this project
-> I have several acquaintances and friends of mine who say they want to get a job in the programming field, but don't really know where to start or where to look and etc... my goal with this project here is to create a guide for both myself and those other people who want to become great programmers
+> I have several acquaintances and friends of mine who say they want to get a job in the programming area, but they don't really know where to start or where to look and etc... my goal with this project here is to create a guide for myself and those other people who want to become great programmers is basically a REFERENCE GUIDE in which there are several tips on how to program, the best way to get a job, links and programming courses. I focused more on two languages that I use the most on a daily basis, which are Java and Javascript.
 
 * ### The F I R S T step
 Okay, now let's start the trail so you know where to start. It is very important that you choose a single programming language first and only after you master it and know a framework do we start to venture into other programming languages.
