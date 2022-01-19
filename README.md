@@ -65,7 +65,7 @@ To make Projects:
 - <a href="https://100dayscss.com/days/1/"> improve your css with the css challenge in 100 days<a/>
 - <a href="https://web.dio.me/labs">Digital Innovation One: LABS<a/>
 
-### Step 4: Join communities
+### Step 3: Join communities
 Why should I join a community?
 - There you can meet people
 - Clear your programming doubts
