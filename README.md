@@ -21,6 +21,8 @@ Eu tenho vários conhecidos e amigos meus que dizem que desejam arrumar emprego 
 https://www.youtube.com/playlist?list=PLMdYygf53DP5SVQQrkKCVWDS0TwYLVitL
   
 https://www.youtube.com/playlist?list=PLdsnXVqbHDUcAWAN3cXHWnM9JEw2gjIN9
+  
+https://github.com/AswinBarath/100-days-of-code-challenge
 
 https://100dayscss.com/days/1/
 
