@@ -51,6 +51,9 @@ But to say that I'm not here just stating the obvious I'm going to give you a st
 - <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> Documentation: JavaScript<a/>
 - <a href="https://docs.python.org/3/">Documentation: Python<a/>
 - <a href="https://dart.dev/guides">Documentation: Dart<a/>
+ 
+ To exercise:
+- <a href="https://www.hackerrank.com/">Hacker Rank Plataform<a/>
 - <a href="http://maratona.sbc.org.br/antigas21.html">Programming marathon exercises wiki<a/>
 - <a href="codegym.cc"> You can find here exercises to do from java<a/>
 - <a href="https://www.theodinproject.com/">Javascript course<a/>
@@ -94,6 +97,7 @@ To make Projects:
  * Picture-in-Picture Extension (by Google)
  * The Marvellous Suspender
  
+ 
 ### Extensions that will help you a lot when you are coding (VS code):
  
  * Auto Close Tag
@@ -102,9 +106,14 @@ To make Projects:
  * Auto Rename Tag
  * GitLens
  * Live Share
-
-Download productivity and study tools:
  
+ 
+### Download productivity and study tools:
+ 
+ * <a href="https://www.notion.so/">Notion<a/>
+ * <a href="https://miro.com/">Miro<a/>
+ * <a href="https://ticktick.com/">TickTick<a/>
+ * <a href="https://drive.google.com/">Google Drive<a/>
  
  
  
@@ -130,30 +139,3 @@ Download productivity and study tools:
 [Linkeidn](https://www.linkedin.com/in/luiz-henrique-3903a618a/)
 
 Gmail: luizhlimagomes28@gmail.com
-
-
-  
-
-  
-
-
-
-
-
-
-
-
-
-  
-
-  
-
-  
-
-
-Extenssões que vão te deixar mais produtivo nos estudos (chrome):
-  
-Extenssões que vão te ajudar muito quando você estiver codando (VS code):
-  
-Download ferramentas:
-  
