@@ -1,6 +1,6 @@
 # How-to-Become-a-Great-Developer
 
-##About this project
+## About this project
 > I have several acquaintances and friends of mine who say they want to get a job in the programming field, but don't really know where to start or where to look and etc... my goal with this project here is to create a guide for both myself and those other people who want to become great programmers
 
 
