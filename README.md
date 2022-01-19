@@ -4,7 +4,7 @@
 > I have several acquaintances and friends of mine who say they want to get a job in the programming field, but don't really know where to start or where to look and etc... my goal with this project here is to create a guide for both myself and those other people who want to become great programmers
 
 Ok, now let's start the trail so you know where to start. It is very important that you choose an area of frameworks to be followed in programming
-* The first step
+* ### The first step
 Okay, now let's start the trail so you know where to start. It is very important that you choose a single programming language first and only after you master it and know a framework do we start to venture into other programming languages.
 
 * Step 1.2: Learn English
