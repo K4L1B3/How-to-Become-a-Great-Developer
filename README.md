@@ -26,6 +26,8 @@ https://www.theodinproject.com/
 https://roadmap.sh/
   
 https://github.com/MohammedHamzaMalik/100-Days-of-JavaScript-Code
+  
+http://maratona.sbc.org.br/antigas21.html
 
 Extenssões que vão te deixar mais produtivo nos estudos (chrome):
   
