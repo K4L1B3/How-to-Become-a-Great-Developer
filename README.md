@@ -8,7 +8,8 @@ Okay, now let's start the trail so you know where to start. It is very important
 
  * Research first which area you want to follow, if you prefer something more logical as a back-end then I recommend you start with Java or if you prefer something more visual as a front-end my recommendation is Javascript, in the end this is just the order of learning, because in the job market you will need to know a little about each thing so you will end up learning both the back-end and front-end areas
  * Study about programming logic
- 
+
+This site can help you choose and understand what you will need to learn when studying this language: https://roadmap.sh/ 
 
 * ### Step 1.2: Learn English
 You have to know english and this is not negotiable if you want to have a place in the job market or earn a good salary
@@ -17,7 +18,7 @@ You have to know english and this is not negotiable if you want to have a place 
     1. ***LEAVE EVERYTHING AND ANYTHING IN ENGLISH*** (series, movies, anime, comics, books your operating system, browser and etc... consume everything you can in English the goal is to make a simulation)
     2. Make a word table with categories of everyday situations
     3. Use flashcards with the word table to improve fixation
-    4. (Pomodoro 90 min) + Spaced Study (Forgetting Curve)
+    4. (<a href="https://en.wikipedia.org/wiki/Pomodoro_Technique">Pomodoro: </a> study 90 min/rest 20 min) + Spaced Study <a href="https://en.wikipedia.org/wiki/Forgetting_curve">(Forgetting Curve)</a>
     5. Doing Exercises in the Duolingo App
     6. Practice English with someone 
 
@@ -31,7 +32,16 @@ You will have to be self-taught and look for yourself the best way to learn a pr
 
 But to say that I'm not here just stating the obvious I'm going to give you a study routine that you can follow in addition to sites to practice solving problems daily
 
-  1. 
+  1. Pomodoro session 1: study 90 min/rest 20 min 
+ - Solve 2 exercise with the main language (in my case it's Java)
+ - Practicing 1 programming marathon exercise per day (This helps a lot to have good programming logic.)
+  <br/>
+  2. Pomodoro session 2: study 90 min/rest 20 min
+ - Work on small projects with languages you haven't fully mastered yet (in my case it's Javascript and ReactJS)
+  <br/>
+  3. Pomodoro session 3: study 90 min/rest 20 min
+ - Watch class of bootcamps every day (Here you learn new things for free and even add it to your curriculum)
+
 
 
 
@@ -72,7 +82,7 @@ https://github.com/EbookFoundation/free-programming-books/blob/main/courses/free
 
 https://www.theodinproject.com/
   
-https://roadmap.sh/
+
   
 https://github.com/MohammedHamzaMalik/100-Days-of-JavaScript-Code
   
