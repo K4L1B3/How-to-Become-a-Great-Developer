@@ -115,8 +115,15 @@ The only active community that helps to solve programming problems I've encounte
  * Bracket Pair Colorizer
  * Live Server
  * Auto Rename Tag
+ * Color Highlight
+ * Jumpy
  * GitLens
+ * Git Graph
  * Live Share
+ * Material Theme
+ * Dracula Official
+ * ESlint
+ * EditorConfig for VS Code
  
  
 ### Download productivity and study tools:
