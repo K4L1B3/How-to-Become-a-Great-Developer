@@ -132,7 +132,7 @@ The only active community that helps to solve programming problems I've encounte
  * <a href="https://miro.com/">Miro<a/>
  * <a href="https://ticktick.com/">TickTick<a/>
  * <a href="https://drive.google.com/">Google Drive<a/>
- * <a href="https://code.visualstudio.com/download"><a/>VScode<a/>
+ * <a href="https://code.visualstudio.com/download">VScode<a/>
  * <a href="https://www.eclipse.org/">Eclipse IDE<a/>
  * <a href="https://docs.insomnia.rest/insomnia/install/">Insomnia<a/>
  * <a href="https://www.mysql.com/downloads/">MySQL<a/>
