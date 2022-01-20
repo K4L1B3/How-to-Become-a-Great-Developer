@@ -96,7 +96,7 @@ The only active community that helps to solve programming problems I've encounte
  - <a href="https://www.youtube.com/playlist?list=PLMdYygf53DP5SVQQrkKCVWDS0TwYLVitL"> This playlist will help you better understand programming concepts<a/>
  - <a href="https://www.youtube.com/playlist?list=PLdsnXVqbHDUcAWAN3cXHWnM9JEw2gjIN9"> understand the programming market once and for all <a/>
  - <a href="https://github.com/alinebastos/fullstack-challenges">Open source's challenges of fullstack jobs to test your skills.<a/>
- - <a href="https://github.com/felipefialho/frontend-challenges"><a/>
+ - <a href="https://github.com/felipefialho/frontend-challenges">Testing your knowledge using real jobs challenge<a/>
 
  
 ### Extensions that will make you more productive in your studies (chrome):
