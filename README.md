@@ -44,7 +44,7 @@ But to say that I'm not here just stating the obvious I'm going to give you a st
   - Watch class of bootcamps every day (Here you learn new things for free and even add it to your curriculum)
 
 
-#### Useful links:
+#### Useful links
 
  To study:
 - <a href="https://docs.oracle.com/en/java/">Documentation: Java<a/>
