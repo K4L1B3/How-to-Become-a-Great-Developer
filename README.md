@@ -55,7 +55,7 @@ But to say that I'm not here just stating the obvious I'm going to give you a st
  To exercise:
 - <a href="https://www.hackerrank.com/">Hacker Rank Plataform<a/>
 - <a href="http://maratona.sbc.org.br/antigas21.html">Programming marathon exercises wiki<a/>
-- <a href="codegym.cc"> You can find here exercises to do from java<a/>
+- <a href="https://codegym.cc/"> You can find here exercises to do from java<a/>
 - <a href="https://www.theodinproject.com/">Javascript course<a/>
 - <a href="https://www.w3schools.com/html/default.asp"> Learn HTML, CSS, SQL and MORE<a/>
 
