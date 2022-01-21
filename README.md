@@ -112,7 +112,7 @@ The only active community that helps to solve programming problems I've encounte
 ### Extensions that will help you a lot when you are coding (VS code):
  
  * Auto Close Tag
- * Bracket Pair Colorizer
+ * Bracket Pair Colorizer 2
  * Live Server
  * Auto Rename Tag
  * Color Highlight
