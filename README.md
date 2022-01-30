@@ -51,18 +51,22 @@ But to say that I'm not here just stating the obvious I'm going to give you a st
 - <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> Documentation: JavaScript<a/>
 - <a href="https://docs.python.org/3/">Documentation: Python<a/>
 - <a href="https://dart.dev/guides">Documentation: Dart<a/>
+- <a href="https://www.w3schools.com/html/default.asp"> Learn HTML, CSS, SQL and MORE<a/>
  
  To exercise:
 - <a href="https://www.hackerrank.com/">Hacker Rank Plataform<a/>
 - <a href="http://maratona.sbc.org.br/antigas21.html">Programming marathon exercises wiki<a/>
+- <a href="freecodecamp.org">Freecode Camp<a/>
 - <a href="https://codegym.cc/"> You can find here exercises to do from java<a/>
 - <a href="https://www.theodinproject.com/">Javascript course<a/>
-- <a href="https://www.w3schools.com/html/default.asp"> Learn HTML, CSS, SQL and MORE<a/>
+- <a href="https://flexboxfroggy.com/">FlexboxFroggy learn Flexbox with gamefication<a/>
 
 To make Projects:
 - <a href="https://www.devchallenge.com.br/">Dev Challenger<a/>
 - <a href="https://github.com/MohammedHamzaMalik/100-Days-of-JavaScript-Code">100 days JavaScript challeger<a/>
 - <a href="https://github.com/AswinBarath/100-days-of-code-challenge"> This github page teaches you software development through the 100 days of code challenge<a/>
+- <a href="https://github.com/florinpop17/app-ideas">Ideas of apps<a/>
+- <a href="https://ichi.pro/pt/20-ideias-incriveis-de-projetos-java-que-impulsionarao-sua-carreira-de-programacao-8092833478389">20 Java Projects Ideas<a/>
 - <a href="https://100dayscss.com/days/1/"> improve your css with the css challenge in 100 days<a/>
 - <a href="https://web.dio.me/labs">Digital Innovation One: LABS<a/>
 - <a href="https://github.com/florinpop17/10-projects-1-hour">10 projects for Javascript<a/>
