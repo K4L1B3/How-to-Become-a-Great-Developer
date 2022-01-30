@@ -60,6 +60,7 @@ But to say that I'm not here just stating the obvious I'm going to give you a st
 - <a href="https://www.w3schools.com/html/default.asp"> Learn HTML, CSS, SQL and MORE<a/>
 
 To make Projects:
+- <a href="https://www.devchallenge.com.br/">Dev Challenger<a/>
 - <a href="https://github.com/MohammedHamzaMalik/100-Days-of-JavaScript-Code">100 days JavaScript challeger<a/>
 - <a href="https://github.com/AswinBarath/100-days-of-code-challenge"> This github page teaches you software development through the 100 days of code challenge<a/>
 - <a href="https://100dayscss.com/days/1/"> improve your css with the css challenge in 100 days<a/>
