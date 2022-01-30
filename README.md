@@ -64,6 +64,8 @@ To make Projects:
 - <a href="https://github.com/AswinBarath/100-days-of-code-challenge"> This github page teaches you software development through the 100 days of code challenge<a/>
 - <a href="https://100dayscss.com/days/1/"> improve your css with the css challenge in 100 days<a/>
 - <a href="https://web.dio.me/labs">Digital Innovation One: LABS<a/>
+- <a href="https://github.com/florinpop17/10-projects-1-hour">10 projects for Javascript<a/>
+- <a href="https://github.com/florinpop17/10-projects-10-hours">MORE 10 projects for Javascript<a/>
 
 ### Step 3: Join communities
 Why should I join a community?
