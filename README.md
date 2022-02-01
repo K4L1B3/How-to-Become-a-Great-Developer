@@ -60,6 +60,9 @@ But to say that I'm not here just stating the obvious I'm going to give you a st
 - <a href="https://codegym.cc/"> You can find here exercises to do from java<a/>
 - <a href="https://www.theodinproject.com/">Javascript course<a/>
 - <a href="https://flexboxfroggy.com/">FlexboxFroggy learn Flexbox with gamefication<a/>
+- <a href="https://www.w3resource.com/java-exercises/array/index.php">Java Array Exercises [74 exercises with solution]<a/>
+- <a href="https://www.w3resource.com/java-exercises/collection/index.php">Java Collection Exercises [126 exercises with solution]<a/>
+<!-- - <a href=""><a/> -->
 
 To make Projects:
 - <a href="https://www.devchallenge.com.br/">Dev Challenger<a/>
