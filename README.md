@@ -68,6 +68,7 @@ To make Projects:
 - <a href="https://www.devchallenge.com.br/">Dev Challenger<a/>
 - <a href="https://github.com/MohammedHamzaMalik/100-Days-of-JavaScript-Code">100 days JavaScript challeger<a/>
 - <a href="https://github.com/AswinBarath/100-days-of-code-challenge"> This github page teaches you software development through the 100 days of code challenge<a/>
+- <a href="https://www.udemy.com/course/100-days-of-code/">100 Days of code with PYTHON<a/>
 - <a href="https://github.com/florinpop17/app-ideas">Ideas of apps<a/>
 - <a href="https://ichi.pro/pt/20-ideias-incriveis-de-projetos-java-que-impulsionarao-sua-carreira-de-programacao-8092833478389">20 Java Projects Ideas<a/>
 - <a href="https://100dayscss.com/days/1/"> improve your css with the css challenge in 100 days<a/>
