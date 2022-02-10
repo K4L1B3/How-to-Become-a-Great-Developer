@@ -135,6 +135,7 @@ The only active community that helps to solve programming problems I've encounte
  * Dracula Official
  * ESlint
  * EditorConfig for VS Code
+ * PlataformIO (For arduino)
  
  
 ### Download productivity and study tools:
