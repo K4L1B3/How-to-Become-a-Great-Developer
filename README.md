@@ -136,7 +136,6 @@ The only active community that helps to solve programming problems I've encounte
  * Dracula Official
  * ESlint
  * EditorConfig for VS Code
-  = = = O T H E R S = = =
  * PlataformIO (For arduino)
  * Extension Pack for Java
  * Spring Boot Extension Pack
