@@ -136,7 +136,11 @@ The only active community that helps to solve programming problems I've encounte
  * Dracula Official
  * ESlint
  * EditorConfig for VS Code
+  = = = O T H E R S = = =
  * PlataformIO (For arduino)
+ * Extension Pack for Java
+ * Spring Boot Extension Pack
+ * Lombok Annotations Support for VS Code
  
  
 ### Download productivity and study tools:
@@ -147,7 +151,7 @@ The only active community that helps to solve programming problems I've encounte
  * <a href="https://drive.google.com/">Google Drive<a/>
  * <a href="https://code.visualstudio.com/download">VScode<a/>
  * <a href="https://www.eclipse.org/">Eclipse IDE<a/>
- * <a href="https://atom.io/">ATOM><a/>
+ * <a href="https://atom.io/">ATOM<a/>
  * <a href="https://docs.insomnia.rest/insomnia/install/">Insomnia<a/>
  * <a href="https://www.mysql.com/downloads/">MySQL<a/>
  
