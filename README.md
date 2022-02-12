@@ -140,6 +140,7 @@ The only active community that helps to solve programming problems I've encounte
  * Extension Pack for Java
  * Spring Boot Extension Pack
  * Lombok Annotations Support for VS Code
+ * Resharper 9 Keybindings
  
  
 ### Download productivity and study tools:
