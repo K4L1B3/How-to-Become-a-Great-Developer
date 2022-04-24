@@ -66,7 +66,9 @@ But to say that I'm not here just stating the obvious I'm going to give you a st
 <!-- - <a href=""><a/> -->
 
 To make Projects:
-- <a href="https://www.devchallenge.com.br/">Dev Challenger<a/>
+- <a href="https://www.devchallenge.com.br/">Dev Challenger<a/> 
+- <a href="https://github.com/felipefialho/frontend-challenges/tree/3b95b927ef0ac59aa56f596f8e4e351ed3eb6610">Desafios de front end Felipe Fialho<a/>
+- <a href="https://www.frontendmentor.io/challenges">Front-end Mentor<a/> 
 - <a href="https://github.com/MohammedHamzaMalik/100-Days-of-JavaScript-Code">100 days JavaScript challeger<a/>
 - <a href="https://github.com/AswinBarath/100-days-of-code-challenge"> This github page teaches you software development through the 100 days of code challenge<a/>
 - <a href="https://www.udemy.com/course/100-days-of-code/">100 Days of code with PYTHON<a/>
